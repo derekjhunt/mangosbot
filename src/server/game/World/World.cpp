@@ -66,7 +66,7 @@
 #include "WorldSession.h"
 
 // playerbot mod
-#include "../../plugins/ahbot/AhBot.h"
+#include "../../plugins/Ahbot/AhBot.h"
 #include "../../plugins/playerbot/PlayerbotAIConfig.h"
 #include "../../plugins/playerbot/RandomPlayerbotMgr.h"
 
